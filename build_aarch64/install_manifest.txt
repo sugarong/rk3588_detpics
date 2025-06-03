@@ -1,0 +1,14 @@
+/home/sugarong/work/YOLOv8_RK3588_object_detect/build_aarch64/deploy/bin/rknn_yolov8_demo
+/home/sugarong/work/YOLOv8_RK3588_object_detect/build_aarch64/deploy/model/yolov8.rknn
+/home/sugarong/work/YOLOv8_RK3588_object_detect/build_aarch64/deploy/input/frame_00000.png
+/home/sugarong/work/YOLOv8_RK3588_object_detect/build_aarch64/deploy/input/frame_00001.png
+/home/sugarong/work/YOLOv8_RK3588_object_detect/build_aarch64/deploy/input/frame_00002.png
+/home/sugarong/work/YOLOv8_RK3588_object_detect/build_aarch64/deploy/input/frame_00003.png
+/home/sugarong/work/YOLOv8_RK3588_object_detect/build_aarch64/deploy/input/frame_00004.png
+/home/sugarong/work/YOLOv8_RK3588_object_detect/build_aarch64/deploy/input/frame_00005.png
+/home/sugarong/work/YOLOv8_RK3588_object_detect/build_aarch64/deploy/input/frame_00006.png
+/home/sugarong/work/YOLOv8_RK3588_object_detect/build_aarch64/deploy/input/frame_00007.png
+/home/sugarong/work/YOLOv8_RK3588_object_detect/build_aarch64/deploy/input/frame_00008.png
+/home/sugarong/work/YOLOv8_RK3588_object_detect/build_aarch64/deploy/lib/librknnrt.so
+/home/sugarong/work/YOLOv8_RK3588_object_detect/build_aarch64/deploy/./run.sh
+/home/sugarong/work/YOLOv8_RK3588_object_detect/build_aarch64/deploy/lib/librga.so

@@ -1,0 +1,2 @@
+/home/sugarong/gcc-arm-10.3-2021.07-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-ar qc libimageutils.a CMakeFiles/imageutils.dir/image_utils.c.o
+/home/sugarong/gcc-arm-10.3-2021.07-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-ranlib libimageutils.a
